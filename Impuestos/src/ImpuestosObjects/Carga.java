@@ -7,7 +7,7 @@ package ImpuestosObjects;
 
 /**
  *
- * @author Sergio
+ * @author Evelyn
  */
 public class Carga extends Vehiculo{
     private Integer toneladas;

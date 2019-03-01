@@ -16,7 +16,7 @@ import java.util.HashMap;
 import java.util.StringTokenizer;
 /**
  *
- * @author Sergio
+ * @author Evelyn
  */
 public class impuestos {
     public static void main(String[] args) {

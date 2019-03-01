@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Sergio
+ * @author Evelyn
  */
 public class myArrayList extends ArrayList <Vehiculo>{
 

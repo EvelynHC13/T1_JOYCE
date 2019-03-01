@@ -7,7 +7,7 @@ package ImpuestosObjects;
 
 /**
  *
- * @author Sergio
+ * @author Evelyn
  */
 public class Camioneta extends Carga{
 

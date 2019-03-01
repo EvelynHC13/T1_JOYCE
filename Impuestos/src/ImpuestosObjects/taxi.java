@@ -7,7 +7,7 @@ package ImpuestosObjects;
 
 /**
  *
- * @author Sergio
+ * @author Evelyn
  */
 public class taxi extends Pasajero{
     private Integer aniosConcesion;

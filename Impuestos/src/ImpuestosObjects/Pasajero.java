@@ -7,7 +7,7 @@ package ImpuestosObjects;
 
 /**
  *
- * @author Sergio
+ * @author Evelyn
  */
 public class  Pasajero extends Vehiculo{
     private Integer numPasajeros;
